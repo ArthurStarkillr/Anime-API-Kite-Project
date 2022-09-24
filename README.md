@@ -9,18 +9,22 @@ You will get a prompt, click on the button to display the anime posters
 
 This is the output:
 
-![image](https://user-images.githubusercontent.com/91261172/192100309-7219a9c0-63d4-4948-a749-fd5143ebd3f2.png)
+![Screenshot 2022-09-24 190838](https://user-images.githubusercontent.com/91261172/192101095-ebdd8f44-664b-4d5c-9643-d3b36aea279d.png)
+
 
 Scroll down for more:
 
-![image](https://user-images.githubusercontent.com/91261172/192100325-b0e9437f-be5a-44e8-9010-89483585cdb0.png)
 
-![image](https://user-images.githubusercontent.com/91261172/192100376-d32fdbed-6e5d-4c0f-9dc2-a91b62be326d.png)
 
-![image](https://user-images.githubusercontent.com/91261172/192100384-4b448681-3ada-40c8-805b-b326b6c978ca.png)
+This is the page that will display anime facts
 
-![image](https://user-images.githubusercontent.com/91261172/192100399-6e4881d3-2d48-4d29-a0c3-a3274e852049.png)
+![Screenshot 2022-09-24 190224](https://user-images.githubusercontent.com/91261172/192100825-0440cdb5-ed5f-465f-a6bb-3b01a2671ffb.png)
 
-![image](https://user-images.githubusercontent.com/91261172/192100431-9e582921-0094-4ca8-8b87-b982fcf4df53.png)
+type the anime name
 
-![image](https://user-images.githubusercontent.com/91261172/192100418-2fbae418-08bc-40a7-843c-0b32154c928c.png)
+![Screenshot 2022-09-24 190553](https://user-images.githubusercontent.com/91261172/192100986-e5e2b9e7-bb39-461c-997b-b4bed900d254.png)
+
+Facts will be displayed
+
+![Screenshot 2022-09-24 190635](https://user-images.githubusercontent.com/91261172/192101039-3483708d-e056-4f75-9303-2003b46999e2.png)
+
